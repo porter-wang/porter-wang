@@ -12,7 +12,7 @@ __I am:__
 - B.S. in Informatics w/minor in Computer Science, at Indiana University Bloomington (2016–2021)
 
 __I built:__
-- Author of [Tidraw](https://tidraw.com), a multi-user, live-share infinite whiteboard/canvas drawing application, a downstream fork of [Tldraw](https://github.com/tldraw/tldraw)
+- Author of [Tidraw](https://tidraw.com), a multi-user, live-share infinite whiteboard/canvas drawing application scalable for 1–50 users, a downstream fork of [Tldraw](https://github.com/tldraw/tldraw)
 - Developer of [Epistorm Dashboard](https://fluforecast.epistorm.org), an explanatory data visualization platform
 - My [Personal Website](https://www.porterwang.com), self-hosted using [a custom-built pipeline](TK)
 
