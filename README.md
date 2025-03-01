@@ -16,4 +16,4 @@ __I built:__
 - Developer of [Epistorm Dashboard](https://fluforecast.epistorm.org), an explanatory data visualization platform
 - My [Personal Website](https://www.porterwang.com), self-hosted using [a custom-built pipeline](TK)
 
-⏬⏬⏬⏬⏬⏬⏬⏬ Check them out here below! ⏬⏬⏬⏬⏬⏬⏬⏬
+👇 Check out the projects I built here! 👇
