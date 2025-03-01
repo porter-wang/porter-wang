@@ -1,4 +1,4 @@
-# Hi, I am Bote (Porter) Wang
+## Hi there, welcome to my GitHub Profile Page!
 
 __I am:__
 - 👋 A full-stack engineer & full-time human being
