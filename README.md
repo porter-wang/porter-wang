@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I am Bote (Porter) Wang
 
-<!--
-**porter-wang/porter-wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+__I am:__
+- 👋 A full-stack engineer & full-time human being
+- 👨‍🎓 Student, M.S. in Information Systems at Northeastern University
+- 💻 Research Assistant (Software Development) at MOBs-Lab, Network Science Institute, Northeastern University
+- 📚 Avid reader, coder, learner, designer and writer, in 20+ computer languages, and 3 human languages
 
-Here are some ideas to get you started:
+__I built:__
+- Author of [Tidraw](https://tidraw.com), a multi-user, live-share infinite whiteboard/canvas drawing application, a downstream fork of [Tldraw](https://github.com/tldraw/tldraw)
+- Developer of [Epistorm Dashboard](https://fluforecast.epistorm.org), an explanatory data visualization platform
+- My [Personal Website](https://www.porterwang.com), self-hosted using [a custom-built pipeline](TK)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I was:**
+- Software Engineer at Bank of China, Financial Technologies, Co., Ltd.
+- B.S. in Informatics w/minor in Computer Science, at Indiana University Bloomington (2016–2021)
+
+
