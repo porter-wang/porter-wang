@@ -1,7 +1,7 @@
-## Hi there, welcome to my GitHub Profile Page!
+### 👋👀 **Hello!**•**你好!**•**こんにちは!**•**안녕하세요!**•**Bonjour!**•**Hola!**•**Namaste!** 
 
 __I am:__
-- 👋 A full-stack engineer & full-time human being
+- 😎 A full-stack engineer & full-time human being
 - 👨‍🎓 Student, M.S. in Information Systems at Northeastern University
 - 💻 Research Assistant (Software Development) at MOBs-Lab, Network Science Institute, Northeastern University
 - 📚 Avid reader, coder, learner, designer and writer, in 20+ computer languages, and 3 human languages
