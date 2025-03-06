@@ -9,7 +9,7 @@ __I am:__
 
 **I was:**
 - Software Engineer at Bank of China, Financial Technologies, Co., Ltd.
-- B.S. in Informatics w/minor in Computer Science, at Indiana University Bloomington (2016–2021)
+- B.S. in Informatics w/minor in Computer Science, at Indiana University Bloomington
 
 __I built:__
 - Author of [Tidraw](https://tidraw.com), a multi-user, live-share infinite whiteboard/canvas drawing application scalable for 1–50 users, a downstream fork of [Tldraw](https://github.com/tldraw/tldraw)
