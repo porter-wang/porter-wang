@@ -4,7 +4,7 @@ __I am:__
 - 😎 A full-stack engineer & full-time human being
 - 👨‍🎓 Currently pursuing *Master of Science in Information Systems* at Northeastern University
 - 💻 Research Assistant (Software Development) at MOBs-Lab, Network Science Institute, Northeastern University
-- 📚 Avid reader, coder, learner, designer and writer, in 20+ computer languages, and 3 human languages
+- 📚 Avid reader, coder, learner, designer and writer, in 5+ computer languages, and 3 human languages
 
 **I was:**
 - Software Engineer at Bank of China, Financial Technologies, Co., Ltd.
